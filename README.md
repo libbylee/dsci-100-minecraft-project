@@ -1,4 +1,4 @@
-### Specific Question: “Can player behavior (e.g., session frequency, time spent, actions performed) predict whether they subscribe to the game-related newsletter?” ###
+### Specific Question: “Can a player's age and total hours played predict whether they subscribe to a game-related newsletter?** ###
 
 In this project, we analyze player behavior data collected from a Minecraft research server maintained by a computer science group at the University of British Columbia (UBC). The server tracks individual play sessions of users, allowing us to aggregate behavioral features for each player. The project’s goal is to explore whether these behavioral patterns can be used to predict which players are most likely to subscribe to a game-related newsletter.
 
